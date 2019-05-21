@@ -1,6 +1,7 @@
 Node-RED Watson Bluemix Starter Application
 ======================================
 
+## DEPRECATED: this repo is no longer actively maintained. It can still be used as reference, but may contain outdated or unpatched code. 
 
 ### Node-RED Watson in Bluemix
 
